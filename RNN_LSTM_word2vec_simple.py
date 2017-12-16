@@ -101,7 +101,6 @@ def get_batches(x, y, batch_size=100):
 
 time1 = time.time()
 
-saver = tf.train.Saver()
 
 with tf.Session() as sess:
     sess.run(tf.global_variables_initializer())
