@@ -7,7 +7,8 @@ I won't say it is done very well,
 since I'm very occupied by my own research, and all my teammates seem also really busy.
 
 My contributions for the project:
-Intro, help a teammate with the data processing part,
+Team management,
+Writing Intro, help a teammate with the data processing code,
 benchmarks (all classical models), and LSTM.
 
 If you happen to see this repo, and you feel the quality is too terrible,
