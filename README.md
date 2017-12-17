@@ -14,7 +14,7 @@ benchmarks (all classical models), and LSTM.
 If you happen to see this repo, and you feel the quality is too terrible,
 I'm so sorry and please ignore it.
 
-I can't control the qualities for th works due to my own time limits.
+I can't control the qualities for this work due to my own time limits.
 
 
 I'm putting here only to keep a record, and when my new computer comes, 
