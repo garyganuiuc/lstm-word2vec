@@ -9,7 +9,7 @@ since I'm very occupied by my own research, and all my teammates seem also reall
 My contributions for the project:
 Team management,
 Writing Intro, help a teammate with the data processing code,
-benchmarks (all classical models), and LSTM code.
+benchmarks (all classical models), and LSTM, CNN code.
 
 If you happen to see this repo, and you feel the quality is too terrible,
 I'm so sorry and please ignore it.
